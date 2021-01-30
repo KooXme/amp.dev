@@ -68,6 +68,7 @@
 		"@ampproject/toolbox-optimizer": "2.7.5",
 		"@google-cloud/datastore": "6.3.1",
 		"acorn": "8.0.5",
+		"amphtml-validator": "1.0.34",
 		"casual": "1.6.2",
 		"cheerio": "1.0.0-rc.3",
 		"client-sessions": "0.8.0",
@@ -92,15 +93,16 @@
 		"node-zopfli-es": "1.0.7",
 		"nunjucks": "3.2.2",
 		"p-queue": "6.6.2",
+		"postcss": "8.2.4",
+		"postcss-css-variables": "0.17.0",
 		"randomstring": "1.1.5",
 		"rcs-core": "3.6.0",
 		"rss-to-json": "1.1.2",
 		"shrink-ray-current": "4.1.2",
 		"signale": "1.4.0",
 		"uuid": "8.3.2",
-		"ws": "7.4.2",
 		"web-push": "3.4.4",
-		"amphtml-validator": "1.0.34"
+		"ws": "7.4.2"
 	},
 	"devDependencies": {
 		"@ampproject/toolbox-cache-url": "2.7.2",
